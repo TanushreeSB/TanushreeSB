@@ -6,6 +6,6 @@ Je suis un passionné de codage.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with system design
 - 💬 Ask me about DSA
-- ⚡ Fun fact: I like to eat ice cubes
+- ⚡ Fun fact: I like to ride bikes
   
 
