@@ -27,6 +27,9 @@ Je suis un passionné de codage.
   <img width="12"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height ="30" alt="java"/>
   <img widyh="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height ="30" alt="java"/>
+  <img widyh="12"/>
+          
           
           
 </div>
