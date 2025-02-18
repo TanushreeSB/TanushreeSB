@@ -29,7 +29,11 @@ Je suis un passionné de codage.
   <img widyh="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height ="30" alt="java"/>
   <img widyh="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height ="30" alt="java"/>
+  <img widyh="12"/>
+  
           
+                  
           
           
 </div>
