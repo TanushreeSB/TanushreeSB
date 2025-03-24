@@ -5,7 +5,6 @@ Je suis un passionné de codage.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with cloud deployment.
-- ⚡ Fun fact: I like to ride travelling
   
 <h2 align="left">I code with</h2>
 
